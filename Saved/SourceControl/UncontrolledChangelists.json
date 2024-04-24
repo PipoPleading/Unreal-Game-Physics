@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/Materials/PM_Sphere.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/ZG/FQAX3JRRM0FFUSVULHDVUW.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AA/JUI0LQ886J30SGK4WQJ9MI.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/U9/0OFCJVMNZBKE6KJI2W9UWU.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/A8/MUZTID34LNNVULAY6R9RM2.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/39/ZDOR3X1J5U7CR2O1HPOZGM.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/0O/WESZOL2NWBJ5C4LQA0F75J.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/StarterContent/Materials/M_Brick_Clay_New.uasset",
+				"C:/Users/wbarnes/Documents/Unreal Projects/Physics/Content/Fracture/Wall_GeometryCollection.uasset"
+			]
+		}
+	]
+}
